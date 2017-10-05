@@ -1,0 +1,22 @@
+{
+  "name": "expresschallenges",
+  "version": "1.0.0",
+  "description": "This is a two parter! Complete part one and then we will regroup and discuss the challenge. After that we'll go for part two!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DillyDaily/expressIntroChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DillyDaily/expressIntroChallenges/issues"
+  },
+  "homepage": "https://github.com/DillyDaily/expressIntroChallenges#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
